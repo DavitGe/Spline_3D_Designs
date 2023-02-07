@@ -14,4 +14,4 @@ I really enjoy visiting some interactive websites, one of them was inspiration f
 
 ## Technologies used
 
-In this project I was getting familiar with [spline](https://spline.design/). App was built with `create-react-app`.
+In this project I was getting familiar with [spline](https://spline.design/). App was created with `create-react-app`.
