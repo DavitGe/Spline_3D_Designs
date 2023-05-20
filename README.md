@@ -1,17 +1,20 @@
-# Trying 3D
+<div align="center">
+  <h1>🕋<br/>Spline3d</h1>
+  <h3>made with ReactJs</h3>
+  <h3><a href="spline3d-omega.vercel.app" target="_blank">Live Preview</a></h3>
+</div>
 
-## Running project
+<div align="center"><img src="https://github.com/DavitGe/spline3d/blob/main/spline.gif?raw=true" /></div>
+<div align="center">
+  <p>Testing abilities in 3D world!</p>
+</div>
 
-You can visit the project **[here](https://spline3d-omega.vercel.app/)**
+<br>
 
-or clone the repository and run:
+## 💬 Overview:
+Just getting fun with 3D, Hoping I will learn it well in future😁
 
-### `yarn start`
+## 🛠️ Packages & APIs
 
-## About project
-
-I really enjoy visiting some interactive websites, one of them was inspiration for me to start working with 3D. I really enjoyed it!
-
-## Technologies used
-
-In this project I was getting familiar with [spline](https://spline.design/). App was created with `create-react-app`.
+- [React](https://reactjs.org/)
+- [spline](https://spline.design/)
